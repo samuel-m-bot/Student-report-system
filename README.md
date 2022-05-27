@@ -3,7 +3,7 @@ C++ program used to manage student reports. Users are admins, teachers and stude
 This program has:
 -Login/Register system
 -read and writing from files
--Object orinated programming (classes)
+-Object oriented programming
 
 How to run:
 1)open console and enter './run'
