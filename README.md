@@ -8,9 +8,9 @@ This program has:
 How to run:
 1)open console and enter './run'
 Accounts that are already in data file so you can use are:
-Admin- email:samuel@gmail.com  passowrd:theskyisblue
-Student- email:sam@gmail.com  passowrd:theskyisblue
-Teacher- email:smith@gmail.com  passowrd:theskyisbig
+Admin- email:'samuel@gmail.com'  passowrd:theskyisblue
+Student- email:'sam@gmail.com'  passowrd:theskyisblue
+Teacher- email:'smith@gmail.com'  passowrd:theskyisbig
 
 Classes are: user, admin, student, teacher, module and report. Admin, students and tecahers are all users. All of the objects of a class are stored in data files.
 For this program all users have a unique id. If you are a admin your ID start with 'AD'. If you are a teacher your ID start with 'TH'. If you are a teacher your ID start with 'UG', 'MA' and 'PH' to represent diffrent types like masters or a phd student.
