@@ -11,7 +11,8 @@ This program has:
 
 How to run:
 
-1)open console and enter './run'
+1) Open console and and cd into the src folder 
+2) Then just enter './run' to run the executable file
 
 Accounts that are already in data file so you can use are:
 
