@@ -27,10 +27,13 @@ For this program all users have a unique id. If you are a admin your ID start wi
 
 Users:
 -View profile
+
 Students:
 -View reports
+
 Tecaher:
 -Add report
+
 Admin:
 -View reports
 -Add report
