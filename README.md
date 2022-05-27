@@ -46,7 +46,8 @@ Login/Register
 ![image](https://user-images.githubusercontent.com/78385915/170710628-a398d6ff-0302-4d01-a80f-a89fea9a94d5.png)
 
 Admin menu:
-![image](https://user-images.githubusercontent.com/78385915/170710718-dcc9b950-1ef7-474f-ac02-7012fde8981e.png)
+![image](https://user-images.githubusercontent.com/78385915/170732993-19057c37-c5e0-4d85-8f54-655b2faa1683.png)
+
 
 Student menu:
 ![image](https://user-images.githubusercontent.com/78385915/170710862-1ef84af6-6fd8-41c1-9b39-0ff28f3fa787.png)
