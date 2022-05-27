@@ -324,7 +324,7 @@ void logged_in_options(user current_user){
         cout<<"\n\n\t7. Choose what record to delete";
         cout<<"\n\n\t8. Change student record";
         cout<<"\n\n\t9. Exit";
-        cout<<"\n\nWhat is your Choice (1/2/3/4/5/6/7/8/9/a/b/c/e) ";
+        cout<<"\n\nWhat is your Choice (1/2/3/4/5/6/7/8/9) ";
         cin>>ch;
         system("clear");
         switch(ch){
